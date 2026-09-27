@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion": "0923456789",
+        "nombre": "Joselyn Fuentes",
+        "telefono": "0991234567",
+        "usuario": "jfuentes",
+        "contrasena": "caseroapp"
+    },
+    {
+        "identificacion": "0900000002",
+        "nombre": "Administrador",
+        "telefono": "0990000000",
+        "usuario": "admin",
+        "contrasena": "admin321"
+    }
+]
